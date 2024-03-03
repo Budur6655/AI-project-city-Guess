@@ -1,8 +1,8 @@
-#City Identification Expert System
-Introduction
+# City Identification Expert System
+## Introduction
 This Prolog-based project is designed as a simple expert system to identify cities based on a set of special questions. The system employs a rule-based approach to infer the most likely city based on the provided attributes.
 
-How to Use
+## How to Use
 To use the system, simply start Prolog and consult the file containing the project code. Then initiate the program by calling the go predicate. 
 
 The system will prompt you with questions about the attributes of the city you are trying to identify. Respond to these questions with 'yes' or 'no'. Based on your responses, the system will make guesses until it concludes.
@@ -28,5 +28,5 @@ The system asks questions about various attributes associated with cities. You c
 Dynamic Predicate Handling
 The system handles predicate assertions dynamically during execution. This allows for the addition or removal of facts/rules during runtime, enhancing the flexibility and adaptability of the expert system.
 
-Note
+## Note
 Remember to respond accurately to the questions asked by the system to ensure the most accurate identification of the city.
